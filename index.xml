@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Derek Lim</title>
+    <link>https://cptq.github.io/</link>
+    <description>Recent content on Derek Lim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cptq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Papers</title>
+      <link>https://cptq.github.io/papers/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cptq.github.io/papers/</guid>
+      <description>Research Papers Neural Manifold Ordinary Differential Equations
+Aaron Lou*, Derek Lim*, Isay Katsman*, Leo Huang*, Qingxuan Jiang, Ser-Nam Lim, and Christopher De Sa
+arXiv preprint arXiv:2006.10254 (2020)
+[arXiv] [code]
+ Expertise and Dynamics within Crowdsourced Musical Knowledge Curation: A Case Study of the Genius Platform
+Derek Lim, and Austin R. Benson
+arXiv preprint arXiv:2006.08108 (2020)
+[arXiv] [code]
+ Spectra of Convex Hulls of Matrix Groups
+Eric Jankowski*, Charles R. Johnson*, and Derek Lim*</description>
+    </item>
+    
+    <item>
+      <title>Flags Ranked by Matrix Rank</title>
+      <link>https://cptq.github.io/posts/flags/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cptq.github.io/posts/flags/</guid>
+      <description>One day I was watching a lecture by Alex Townsend, when he noted that the flags of some nations, when viewed as matrices, have quite low rank. I found this remark pretty amusing, and as it recently passed my mind again, I set out to compute the ranks of some flags. The flag of Bolivia has rank one, since all of its columns are the same and hence any two columns are linearly dependent.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://cptq.github.io/about/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cptq.github.io/about/</guid>
+      <description>I&#39;m Derek Lim, a third-year undergraduate studying Mathematics and Computer Science at Cornell University.
+My contact information can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Endless Eigenart in 3 lines of code</title>
+      <link>https://cptq.github.io/posts/eigart/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cptq.github.io/posts/eigart/</guid>
+      <description>Science is what we understand well enough to explain to a computer. Art is everything else we do. — Donald Knuth
+ If we import numpy and matplotlib,
+import numpy as np import matplotlib.pyplot as plt then we can generate really nice art in just 3 lines of code.
+As = np.random.randn(6,6,3) vals = [val for s in np.linspace(0,1,500) for t in np.linspace(0,1-s,500) for val in np.linalg.eigvals(s*As[:,:,0] + t*As[:,:,1] + (1-s-t)*As[:,:,2])] plt.</description>
+    </item>
+    
+    <item>
+      <title>Other Stuff</title>
+      <link>https://cptq.github.io/other/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cptq.github.io/other/</guid>
+      <description>Cornell Undergrad Notes This is a compilation of notes in \(\LaTeX\) for some of the courses that I have taken at Cornell. These notes are taken in class so they tend not to include drawings and may be messy at points; the blame should fall on me—not the instructors—for any issues in the notes.
+Math 6220 — Applied Functional Analysis [pdf]
+Math 4250/ CS 4210 — Numerical Analysis and Differential Equations [pdf]</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cptq.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cptq.github.io/contact/</guid>
+      <description>Contact I can be reached by email at dl772(at)cornell[dot]edu.</description>
+    </item>
+    
+  </channel>
+</rss>
