@@ -88,7 +88,7 @@ Rank three flags
 <figure>
 <img src=pathological_flag.svg> </img>
 <figcaption>
-An example pathological flag: a rank one flag with a 656KB svg file. It is trivial to make a larger one, but I do not want to slow down webpage loading.
+An example pathological flag: a rank one flag with a 656KB svg file.
 </figcaption>
 </figure>
 <p><br></br></p>

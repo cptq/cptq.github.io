@@ -18,16 +18,13 @@
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cptq.github.io/papers/</guid>
-      <description>Research Papers Neural Manifold Ordinary Differential Equations
+      <description>Research Papers    Neural Manifold Ordinary Differential Equations
 Aaron Lou*, Derek Lim*, Isay Katsman*, Leo Huang*, Qingxuan Jiang, Ser-Nam Lim, and Christopher De Sa
-arXiv preprint arXiv:2006.10254 (2020)
-[arXiv] [code]
- Expertise and Dynamics within Crowdsourced Musical Knowledge Curation: A Case Study of the Genius Platform
+ICML INNF Workshop, Spotlight (2020)
+[arXiv] [code]      Expertise and Dynamics within Crowdsourced Musical Knowledge Curation: A Case Study of the Genius Platform
 Derek Lim, and Austin R. Benson
 arXiv preprint arXiv:2006.08108 (2020)
-[arXiv] [code]
- Spectra of Convex Hulls of Matrix Groups
-Eric Jankowski*, Charles R. Johnson*, and Derek Lim*</description>
+[arXiv] [code]    \[HS(\rho_k(D_{2n})) = \Pi_{\frac{n}{\mathrm{gcd}(n,k)}} \cup \Pi_2\] \[HS(\rho(Q_8)) = \Pi_4\]   Spectra of Convex Hulls of Matrix Groups</description>
     </item>
     
     <item>
@@ -45,7 +42,7 @@ Eric Jankowski*, Charles R. Johnson*, and Derek Lim*</description>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cptq.github.io/about/</guid>
-      <description>I&#39;m Derek Lim, a third-year undergraduate studying Mathematics and Computer Science at Cornell University.
+      <description>I&amp;rsquo;m Derek Lim, a rising senior undergraduate studying Mathematics and Computer Science at Cornell University.
 My contact information can be found here.</description>
     </item>
     
