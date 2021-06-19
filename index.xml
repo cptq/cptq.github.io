@@ -19,13 +19,13 @@
       
       <guid>https://cptq.github.io/papers/</guid>
       <description>Research Papers  * Denotes equal contribution or alphabetical authorship. 
-   New Benchmarks for Learning on Non-Homophilous Graphs
+   Equivariant Manifold Flows
+Isay Katsman, Aaron Lou, Derek Lim, Qingxuan Jiang, Ser-Nam Lim, Christopher De Sa
+ICML INNF Workshop (2021)
+[pdf]      New Benchmarks for Learning on Non-Homophilous Graphs
 Derek Lim*, Xiuyu Li*, Felix Hohne*, Ser-Nam Lim
 Workshop on Graph Learning Benchmarks (GLB 2021) at WWW (2021)
-[arXiv] [pdf] [data/code]      Doubly Stochastic Subspace Clustering
-Derek Lim, René Vidal, Benjamin Haeffele
-arXiv:2011.14859 (2020)
-[arXiv] [code]      Neural Manifold Ordinary Differential Equations</description>
+[arXiv] [pdf] [data/code]      Doubly Stochastic Subspace Clustering</description>
     </item>
     
     <item>
@@ -43,9 +43,9 @@ arXiv:2011.14859 (2020)
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cptq.github.io/about/</guid>
-      <description>I&amp;rsquo;m Derek Lim, a senior undergraduate studying Mathematics and Computer Science at Cornell University. I will be a PhD student at MIT EECS starting Fall 2021.
+      <description>I&amp;rsquo;m Derek Lim, a first-year PhD student at MIT EECS. I did my undergrad in Math and Computer Science at Cornell University.
 My contact information can be found here.
-Events  December 2020: Received an honorable mention for the CRA Outstanding Undergraduate Researcher Award. June 2021: I&amp;rsquo;ll be at ICWSM 2021 to discuss our paper on expertise and dynamics on Genius. December 2020: At NeurIPS 2020 we presented our paper on Neural Manifold Ordinary Differential Equations September 21, 2020: My interview with the Data Skeptic podcast is now on Spotify.</description>
+Events  December 2020: Received an honorable mention for the CRA Outstanding Undergraduate Researcher Award. June 2021: At ICWSM 2021 we presented our paper on expertise and dynamics on Genius. December 2020: At NeurIPS 2020 we presented our paper on Neural Manifold Ordinary Differential Equations September 21, 2020: My interview with the Data Skeptic podcast is now on Spotify.</description>
     </item>
     
     <item>
@@ -77,7 +77,7 @@ Math 4250/ CS 4210 — Numerical Analysis and Differential Equations [pdf]</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cptq.github.io/contact/</guid>
-      <description>Contact I can be reached by email at dl772(at)cornell[dot]edu.</description>
+      <description>Contact I can be reached by email at dereklim(at)mit[dot]edu.</description>
     </item>
     
   </channel>
