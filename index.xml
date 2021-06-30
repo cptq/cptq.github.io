@@ -6,12 +6,7 @@
     <description>Recent content on Derek Lim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://cptq.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://cptq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Papers</title>
       <link>https://cptq.github.io/papers/</link>
@@ -29,15 +24,6 @@ Workshop on Graph Learning Benchmarks (GLB 2021) at WWW (2021)
     </item>
     
     <item>
-      <title>Flags Ranked by Matrix Rank</title>
-      <link>https://cptq.github.io/posts/flags/</link>
-      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cptq.github.io/posts/flags/</guid>
-      <description>One day I was watching a lecture by Alex Townsend, when he noted that the flags of some nations, when viewed as matrices, have quite low rank. I found this remark pretty amusing, and as it recently passed my mind again, I set out to compute the ranks of some flags. The flag of Bolivia has rank one, since all of its columns are the same and hence any two columns are linearly dependent.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://cptq.github.io/about/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
@@ -49,26 +35,16 @@ Events  December 2020: Received an honorable mention for the CRA Outstanding Und
     </item>
     
     <item>
-      <title>Endless Eigenart in 3 lines of code</title>
-      <link>https://cptq.github.io/posts/eigart/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cptq.github.io/posts/eigart/</guid>
-      <description>Science is what we understand well enough to explain to a computer. Art is everything else we do. — Donald Knuth
- If we import numpy and matplotlib,
-import numpy as np import matplotlib.pyplot as plt then we can generate really nice art in just 3 lines of code.
-As = np.random.randn(6,6,3) vals = [val for s in np.linspace(0,1,500) for t in np.linspace(0,1-s,500) for val in np.linalg.eigvals(s*As[:,:,0] + t*As[:,:,1] + (1-s-t)*As[:,:,2])] plt.</description>
-    </item>
-    
-    <item>
       <title>Other Stuff</title>
       <link>https://cptq.github.io/other/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cptq.github.io/other/</guid>
-      <description>Cornell Undergrad Notes This is a compilation of notes in \(\LaTeX\) for some of the courses that I have taken at Cornell. These notes are taken in class so they tend not to include drawings and may be messy at points; the blame should fall on me—not the instructors—for any issues in the notes.
-Math 6220 — Applied Functional Analysis [pdf]
-Math 4250/ CS 4210 — Numerical Analysis and Differential Equations [pdf]</description>
+      <description>Teaching Materials AI for Social Networks Presentation at Inspirit AI Summer Scholars 2021
+[Slides]
+Social Media and Data Science class at Rainstorm 2021
+[Slides]
+Cornell Undergrad Notes This is a compilation of notes in \(\LaTeX\) for some of the courses that I have taken at Cornell. These notes are taken in class so they tend not to include drawings and may be messy at points; the blame should fall on me—not the instructors—for any issues in the notes.</description>
     </item>
     
     <item>
