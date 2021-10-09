@@ -14,13 +14,15 @@
       
       <guid>https://cptq.github.io/papers/</guid>
       <description>Research Papers  * Denotes equal contribution or alphabetical authorship. 
-   Equivariant Manifold Flows
+   Equivariant Subgraph Aggregation Networks
+Beatrice Bevilacqua*, Fabrizio Frasca*, Derek Lim*, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael Bronstein, Haggai Maron
+arXiv:2110.02910 (2021)
+[arXiv]      Equivariant Manifold Flows
 Isay Katsman*, Aaron Lou*, Derek Lim*, Qingxuan Jiang*, Ser-Nam Lim, Christopher De Sa
 NeurIPS (2021)
  Also in ICML INNF Workshop (2021)
 [pdf] 
-[Full paper coming soon]      Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods
-Derek Lim*, Felix Hohne*, Xiuyu Li*, Sijia Linda Huang, Vaishnavi Gupta, Omkar Bhalerao, Ser-Nam Lim</description>
+[arXiv]      Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods</description>
     </item>
     
     <item>
