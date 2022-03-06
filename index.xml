@@ -6,7 +6,8 @@
     <description>Recent content on Derek Lim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://cptq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cptq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Papers</title>
       <link>https://cptq.github.io/papers/</link>
@@ -20,6 +21,15 @@ arXiv:2202.13013 (2022)
 [arXiv]      Equivariant Subgraph Aggregation Networks
 Beatrice Bevilacqua*, Fabrizio Frasca*, Derek Lim*, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael Bronstein, Haggai Maron
 ICLR (2022), Spotlight (176 / 3391 total submissions)</description>
+    </item>
+    
+    <item>
+      <title>Flags Ranked by Matrix Rank</title>
+      <link>https://cptq.github.io/posts/flags/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cptq.github.io/posts/flags/</guid>
+      <description>One day I was watching a lecture, and the lecturer noted that the flags of some nations, when viewed as matrices, have quite low rank, in the sense of the standard concept from linear algebra. I found this remark pretty amusing, so I set out to compute the ranks of some flags. The flag of Bolivia has rank one, since all of its columns are the same and hence any two columns are linearly dependent.</description>
     </item>
     
     <item>
