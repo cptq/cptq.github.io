@@ -19,17 +19,6 @@ My research is supported by the National Science Foundation Graduate Fellowship 
     </item>
     
     <item>
-      <title>Universal Invariant Networks Through a Nice Commutative Diagram</title>
-      <link>https://cptq.github.io/universal_invariant_draft/</link>
-      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cptq.github.io/universal_invariant_draft/</guid>
-      <description>\(\newcommand{\RR}{\mathbb{R}}\) \(\newcommand{\NN}{\mathbb{N}}\)
-\(\newcommand{\mc}{\mathcal}\)
-Note: this is a work in progress draft Summary I explain a theoretical connection between several types of invariant neural networks. This connection gives a blueprint for developing new invariant neural networks, and simplifies the theoretical analyses of some existing invariant neural networks. I also give some background on the basic algebra and topology behind these connections, and thus show one way in which these fields can be applied to machine learning.</description>
-    </item>
-    
-    <item>
       <title>Papers</title>
       <link>https://cptq.github.io/papers/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
