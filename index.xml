@@ -26,13 +26,14 @@ Research Interests: I broadly work with learning methods that meaningfully accou
       
       <guid>https://cptq.github.io/papers/</guid>
       <description>Research Papers  * Denotes equal contribution or alphabetical authorship. 
-   Understanding Doubly Stochastic Clustering
+   Equivariant Polynomials for Graph Neural Networks
+Omri Puny*, Derek Lim*, Bobak Kiani*, Haggai Maron, Yaron Lipman
+arXiv:2302.11556 (2023)
+[arXiv]      Understanding Doubly Stochastic Clustering
 Tianjiao Ding, Derek Lim, René Vidal, Benjamin Haeffele
 ICML (2022)
 [pdf]      Sign and Basis Invariant Networks for Spectral Graph Representation Learning
-Derek Lim*, Joshua Robinson*, Lingxiao Zhao, Tess Smidt, Suvrit Sra, Haggai Maron, Stefanie Jegelka
-ICLR GTRL Workshop (2022)
-[arXiv] [code] [workshop pdf] [LoGaG Reading Group Talk]      Equivariant Subgraph Aggregation Networks</description>
+Derek Lim*, Joshua Robinson*, Lingxiao Zhao, Tess Smidt, Suvrit Sra, Haggai Maron, Stefanie Jegelka</description>
     </item>
     
     <item>
