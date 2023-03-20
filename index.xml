@@ -46,6 +46,18 @@ Derek Lim*, Joshua Robinson*, Lingxiao Zhao, Tess Smidt, Suvrit Sra, Haggai Maro
     </item>
     
     <item>
+      <title>Endless Eigenart in 3 lines of code</title>
+      <link>https://cptq.github.io/posts/eigart/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cptq.github.io/posts/eigart/</guid>
+      <description>Science is what we understand well enough to explain to a computer. Art is everything else we do. — Donald Knuth
+ If we import numpy and matplotlib,
+import numpy as np import matplotlib.pyplot as plt then we can generate really nice art in just 3 lines of code.
+As = np.random.randn(6,6,3) vals = [val for s in np.linspace(0,1,500) for t in np.linspace(0,1-s,500) for val in np.linalg.eigvals(s*As[:,:,0] + t*As[:,:,1] + (1-s-t)*As[:,:,2])] plt.</description>
+    </item>
+    
+    <item>
       <title>Other</title>
       <link>https://cptq.github.io/other/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
