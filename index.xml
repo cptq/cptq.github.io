@@ -29,10 +29,10 @@
    Equivariant Polynomials for Graph Neural Networks
 Omri Puny*, Derek Lim*, Bobak Kiani*, Haggai Maron, Yaron Lipman
 ICML, Oral (2023)
-[arXiv] [code]      Sign and Basis Invariant Networks for Spectral Graph Representation Learning
-Derek Lim*, Joshua Robinson*, Lingxiao Zhao, Tess Smidt, Suvrit Sra, Haggai Maron, Stefanie Jegelka
-ICLR, Spotlight (2023)
-[arXiv] [code] [workshop pdf] [LoGaG Reading Group Talk]      Understanding Doubly Stochastic Clustering</description>
+[arXiv] [code]      Graph Inductive Biases in Transformers without Message Passing
+Liheng Ma*, Chen Lin*, Derek Lim, Adriana Romero-Soriano, Puneet K. Dokania, Mark Coates, Philip Torr, Ser-Nam Lim
+ICML (2023)
+[arXiv] [code]      Sign and Basis Invariant Networks for Spectral Graph Representation Learning</description>
     </item>
     
     <item>
