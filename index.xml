@@ -15,8 +15,8 @@
       
       <guid>https://cptq.github.io/about/</guid>
       <description>Current:
- Research intern at NVIDIA, Summer 2023 2nd year EECS PhD (started in 2021) student at MIT CSAIL  Advised by Stefanie Jegelka, and also working closely with Haggai Maron Supported by a National Science Foundation Graduate Fellowship (NSF GRFP)   Organizer of the Boston Symmetry Group  Previous:
- Organizer of the first Learning on Graphs Conference: LoG 2022 Research intern at Meta AI, Summer 2022 Undergrad in Math and CS at Cornell University  Research Interests: I like working with equivariant neural networks, graph neural networks, and neural network parameter spaces / loss landscapes.</description>
+ 3rd year EECS PhD (started in 2021) student at MIT CSAIL  Advised by Stefanie Jegelka, and also working closely with Haggai Maron Supported by a National Science Foundation Graduate Fellowship (NSF GRFP)   Part-time ML scientist at Liquid AI Organizer of the Boston Symmetry Group  Previous:
+ Research intern at NVIDIA, Summer 2023 Organizer of the first Learning on Graphs Conference: LoG 2022 Research intern at Meta AI, Summer 2022 Undergrad in Math and CS at Cornell University  Research Interests: I like working with equivariant neural networks, graph neural networks, and neural network parameter spaces / loss landscapes.</description>
     </item>
     
     <item>
@@ -26,13 +26,13 @@
       
       <guid>https://cptq.github.io/papers/</guid>
       <description>Research Papers  * Denotes equal contribution or alphabetical authorship. 
-   Equivariant Polynomials for Graph Neural Networks
-Omri Puny*, Derek Lim*, Bobak Kiani*, Haggai Maron, Yaron Lipman
-ICML, Oral (2023)
-[arXiv] [code]      Graph Inductive Biases in Transformers without Message Passing
-Liheng Ma*, Chen Lin*, Derek Lim, Adriana Romero-Soriano, Puneet K. Dokania, Mark Coates, Philip Torr, Ser-Nam Lim
-ICML (2023)
-[arXiv] [code]      Sign and Basis Invariant Networks for Spectral Graph Representation Learning</description>
+   Graph Metanetworks for Processing Diverse Neural Architectures
+Derek Lim, Haggai Maron, Marc T. Law, Jonathan Lorraine, James Lucas
+ICLR, Spotlight (2024)
+[arXiv]      Structuring Representation Geometry with Rotationally Equivariant Contrastive Learning
+Sharut Gupta*, Joshua Robinson*, Derek Lim, Soledad Villar, Stefanie Jegelka
+ICLR (2024)
+[arXiv] [code]      Expressive Sign Equivariant Networks for Spectral Geometric Learning</description>
     </item>
     
     <item>
