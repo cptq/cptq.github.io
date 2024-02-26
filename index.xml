@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cptq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cptq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://cptq.github.io/about/</link>
@@ -17,6 +17,18 @@
       <description>Current:
  3rd year EECS PhD (started in 2021) student at MIT CSAIL  Advised by Stefanie Jegelka, and also working closely with Haggai Maron Supported by a National Science Foundation Graduate Fellowship (NSF GRFP)   Part-time ML scientist at Liquid AI Organizer of the Boston Symmetry Group  Previous:
  Research intern at NVIDIA, Summer 2023 Organizer of the first Learning on Graphs Conference: LoG 2022 Research intern at Meta AI, Summer 2022 Undergrad in Math and CS at Cornell University  Research Interests: I like working with equivariant neural networks, graph neural networks, and neural network parameter spaces / loss landscapes.</description>
+    </item>
+    
+    <item>
+      <title>Universal Invariant Networks Through a Nice Commutative Diagram</title>
+      <link>https://cptq.github.io/posts/universal_invariant/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cptq.github.io/posts/universal_invariant/</guid>
+      <description>\(\newcommand{\RR}{\mathbb{R}}\) \(\newcommand{\NN}{\mathbb{N}}\)
+\(\newcommand{\mc}{\mathcal}\)
+When working on a project with group invariant neural networks, I found myself repeatedly using essentially the same steps to prove many different results on universality of invariant networks. I eventually realized that these steps could be captured in the following commutative diagram:
+  What’s more: this commutative diagram helps simplify and unify previous proofs of results in the study of invariant neural networks. Plus, it gives a blueprint for developing novel invariant neural network architectures.</description>
     </item>
     
     <item>
