@@ -38,13 +38,13 @@ When working on a project with group invariant neural networks, I found myself r
       
       <guid>https://cptq.github.io/papers/</guid>
       <description>Research Papers  * Denotes equal contribution or alphabetical authorship. 
-   Graph Metanetworks for Processing Diverse Neural Architectures
+   The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof
+Derek Lim*, Moe Putterman*, Robin Walters, Haggai Maron, Stefanie Jegelka
+arXiv:2405.20231 (2024)
+[arXiv]       Graph Metanetworks for Processing Diverse Neural Architectures
 Derek Lim, Haggai Maron, Marc T. Law, Jonathan Lorraine, James Lucas
 ICLR, Spotlight (2024)
-[arXiv]      Structuring Representation Geometry with Rotationally Equivariant Contrastive Learning
-Sharut Gupta*, Joshua Robinson*, Derek Lim, Soledad Villar, Stefanie Jegelka
-ICLR (2024)
-[arXiv] [code]      Expressive Sign Equivariant Networks for Spectral Geometric Learning</description>
+[arXiv]      Structuring Representation Geometry with Rotationally Equivariant Contrastive Learning</description>
     </item>
     
     <item>
