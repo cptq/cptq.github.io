@@ -15,8 +15,8 @@
       
       <guid>https://cptq.github.io/about/</guid>
       <description>Current:
- 3rd year EECS PhD (started in 2021) student at MIT CSAIL  Advised by Stefanie Jegelka, and also working closely with Haggai Maron Supported by a National Science Foundation Graduate Fellowship (NSF GRFP)   Part-time ML scientist at Liquid AI Organizer of the Boston Symmetry Group  Previous:
- Research intern at NVIDIA, Summer 2023 Organizer of the first Learning on Graphs Conference: LoG 2022 Research intern at Meta AI, Summer 2022 Undergrad in Math and CS at Cornell University  Research Interests: I like working with equivariant neural networks, graph neural networks, and neural network parameter spaces / loss landscapes.</description>
+ 4th year EECS PhD (started in 2021) student at MIT CSAIL  Advised by Stefanie Jegelka, and also working closely with Haggai Maron Supported by a National Science Foundation Graduate Fellowship (NSF GRFP)   Part-time ML scientist at Liquid AI  Mostly working on post-training, but involved in many parts of the LLM pipeline.   Organizer of the Boston Symmetry Group  Previous:
+ Research intern at NVIDIA, Summer 2023 Organizer of the first Learning on Graphs Conference: LoG 2022 Research intern at Meta AI, Summer 2022 Undergrad in Math and CS at Cornell University  Research Interests: I like working with neural network parameter spaces / loss landscapes, symmetries in machine learning, and various types of structure in machine learning.</description>
     </item>
     
     <item>
@@ -38,13 +38,13 @@ When working on a project with group invariant neural networks, I found myself r
       
       <guid>https://cptq.github.io/papers/</guid>
       <description>Research Papers  * Denotes equal contribution or alphabetical authorship. 
-   The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof
+  Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models
+Moe Putterman*, Derek Lim*, Yoav Gelberg, Stefanie Jegelka, Haggai Maron
+arXiv:2410.04207 (2024)
+[arXiv]     The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof
 Derek Lim*, Moe Putterman*, Robin Walters, Haggai Maron, Stefanie Jegelka
-arXiv:2405.20231 (2024)
-[arXiv]       Graph Metanetworks for Processing Diverse Neural Architectures
-Derek Lim, Haggai Maron, Marc T. Law, Jonathan Lorraine, James Lucas
-ICLR, Spotlight (2024)
-[arXiv]      Structuring Representation Geometry with Rotationally Equivariant Contrastive Learning</description>
+NeurIPS (2024)
+[arXiv] [code]      Graph Metanetworks for Processing Diverse Neural Architectures</description>
     </item>
     
     <item>
