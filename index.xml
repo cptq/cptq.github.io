@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Derek Lim</title>
-    <link>https://cptq.github.io/</link>
+    <link>https://dereklim.net/</link>
     <description>Recent content on Derek Lim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cptq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dereklim.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://cptq.github.io/about/</link>
+      <link>https://dereklim.net/about/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cptq.github.io/about/</guid>
+      <guid>https://dereklim.net/about/</guid>
       <description>Current:
  Research at OpenAI, mostly working on post-training.  Previous:
  MIT CSAIL CS PhD  Worked on neural network parameter spaces / loss landscapes, symmetries in machine learning, and various types of structure in machine learning. Advised by Stefanie Jegelka, and also working closely with Haggai Maron   Part-time ML scientist at Liquid AI  Mostly working on post-training, but involved in many parts of the LLM pipeline.</description>
@@ -21,10 +21,10 @@
     
     <item>
       <title>Universal Invariant Networks Through a Nice Commutative Diagram</title>
-      <link>https://cptq.github.io/posts/universal_invariant/</link>
+      <link>https://dereklim.net/posts/universal_invariant/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cptq.github.io/posts/universal_invariant/</guid>
+      <guid>https://dereklim.net/posts/universal_invariant/</guid>
       <description>\(\newcommand{\RR}{\mathbb{R}}\) \(\newcommand{\NN}{\mathbb{N}}\)
 \(\newcommand{\mc}{\mathcal}\)
 When working on a project with group invariant neural networks, I found myself repeatedly using essentially the same steps to prove many different results on universality of invariant networks. I eventually realized that these steps could be captured in the following commutative diagram:
@@ -33,10 +33,10 @@ When working on a project with group invariant neural networks, I found myself r
     
     <item>
       <title>Papers</title>
-      <link>https://cptq.github.io/papers/</link>
+      <link>https://dereklim.net/papers/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cptq.github.io/papers/</guid>
+      <guid>https://dereklim.net/papers/</guid>
       <description>Research Papers  * Denotes equal contribution or alphabetical authorship. 
   Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models
 Moe Putterman*, Derek Lim*, Yoav Gelberg, Stefanie Jegelka, Haggai Maron
@@ -49,19 +49,19 @@ NeurIPS (2024)
     
     <item>
       <title>Flags Ranked by Matrix Rank</title>
-      <link>https://cptq.github.io/posts/flags/</link>
+      <link>https://dereklim.net/posts/flags/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cptq.github.io/posts/flags/</guid>
+      <guid>https://dereklim.net/posts/flags/</guid>
       <description>One day I was watching a lecture, and the lecturer noted that the flags of some nations, when viewed as matrices, have quite low rank, in the sense of the standard concept from linear algebra. I found this remark pretty amusing, so I set out to compute the ranks of some flags. The flag of Bolivia has rank one, since all of its columns are the same and hence any two columns are linearly dependent.</description>
     </item>
     
     <item>
       <title>Endless Eigenart in 3 lines of code</title>
-      <link>https://cptq.github.io/posts/eigart/</link>
+      <link>https://dereklim.net/posts/eigart/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cptq.github.io/posts/eigart/</guid>
+      <guid>https://dereklim.net/posts/eigart/</guid>
       <description>Science is what we understand well enough to explain to a computer. Art is everything else we do. — Donald Knuth
  If we import numpy and matplotlib,
 import numpy as np import matplotlib.pyplot as plt then we can generate really nice art in just 3 lines of code.
@@ -70,10 +70,10 @@ As = np.random.randn(6,6,3) vals = [val for s in np.linspace(0,1,500) for t in n
     
     <item>
       <title>Other</title>
-      <link>https://cptq.github.io/other/</link>
+      <link>https://dereklim.net/other/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cptq.github.io/other/</guid>
+      <guid>https://dereklim.net/other/</guid>
       <description>Teaching Materials A Random Random Walk Walk class at MIT Splash! 2022
 [Slides]
 Research Lab Notebooks for 2021 SoNIC workshop at Cornell
@@ -87,10 +87,10 @@ Cornell Undergrad Notes This is a compilation of notes in \(\LaTeX\) for some of
     
     <item>
       <title></title>
-      <link>https://cptq.github.io/contact/</link>
+      <link>https://dereklim.net/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cptq.github.io/contact/</guid>
+      <guid>https://dereklim.net/contact/</guid>
       <description>Contact I can be reached by email at dereklim(at)mit[dot]edu.</description>
     </item>
     
